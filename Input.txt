@@ -1,0 +1,4 @@
+Dallas,TX;San Francisco,CA;Miami,FL
+55°F;63°F;82°F
+South, 9 mph;Southeast, 11 mph;North, 15 mph
+1;2;3
